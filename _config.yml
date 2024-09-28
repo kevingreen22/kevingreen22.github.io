@@ -1,10 +1,10 @@
 # Site settings
-title: iOS Portfolio
+title: My Portfolio
 email: stuckbykev@gmail.com
 url: https://kevingreen22/kevingreen22.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "ios, developer, swift, swiftui, kevin, portfolio"
-skills: "iOS Developer"
+skills: "iOS Developer - UI/UX - Modeling - Backend"
 meta_author: Green Kevin
 
 # Google webmaster tools
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Kevin Green
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Socials
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line: SF Bay Area
   - line: 
 
 # Credits content
