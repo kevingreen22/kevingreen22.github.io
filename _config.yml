@@ -61,7 +61,7 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: ""
+      path: "https://kevingreen22.github.io/donationfinder"
       type: "posts"
     values:
       permalink: ""
