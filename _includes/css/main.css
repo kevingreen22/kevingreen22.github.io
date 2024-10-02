@@ -301,7 +301,7 @@ section.success {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #{{ site.color.primary }};
     background: 0 0;
 }
 
