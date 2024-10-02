@@ -297,6 +297,14 @@ section.success {
     background: #fff;
 }
 
+.btn-outline-modal {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #fff;
+    background: 0 0;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
