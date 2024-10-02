@@ -298,11 +298,10 @@ section.success {
 }
 
 .btn-outline-modal {
-    margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
     color: #{{ site.color.primary }};
-    background: 0 0;
+    background: #{{ site.color.secondary }};
 }
 
 .floating-label-form-group {
