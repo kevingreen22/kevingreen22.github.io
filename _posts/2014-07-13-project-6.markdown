@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: donation_finder_icon.png
+img: donation_finder.png
 alt: image-alt
 project-date: 2018
 client: N/A
