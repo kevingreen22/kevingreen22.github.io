@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: special_order_keeper_icon.png
+img: special_order_keeper.png
 alt: image-alt
 project-date: 2020
 client: Henry
