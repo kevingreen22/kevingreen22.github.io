@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: donation_finder_icon.png
 alt: image-alt
-project-date: April 2014
+project-date: 2018
 client: N/A
-category: Productivity/Infomative
+category: iOS App - Productivity/Infomative
 description: This app concept helps to find different donation/recycling centers/bins/etc. in an easy to use map. Easy identification of the specific type of donation & recycling place, with the ability to add new locations and photos.
 ---
