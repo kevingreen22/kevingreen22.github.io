@@ -300,7 +300,6 @@ section.success {
 .btn-outline-modal {
     border: solid 2px #fff;
     font-size: 20px;
-    padding-bottom: .5em;
     color: #{{ site.color.primary }};
     background: #{{ site.color.secondary }};
 }
